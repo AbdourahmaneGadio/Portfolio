@@ -124,6 +124,7 @@ transition: all 0.4s ease;
 
 
 
+/* Front-End */
 .langageInfo.css:hover{
     background-color: lightcoral;
 }
@@ -136,6 +137,13 @@ transition: all 0.4s ease;
     background-color: yellow;
 }
 
+.langageInfo.wordpress:hover{
+    background-color: lightskyblue;
+}
+
+
+
+/* Back-End */
 .langageInfo.php:hover{
     background-color: mediumpurple;
 }
@@ -148,6 +156,12 @@ transition: all 0.4s ease;
     background-color: lightgreen;
 }
 
+.langageInfo.symphony:hover{
+    background-color: rgb(54, 54, 54);
+}
+
+
+/* Mobile */
 .langageInfo.java:hover{
     background-color: lightcoral;
 }
@@ -158,6 +172,10 @@ transition: all 0.4s ease;
 
 .langageInfo.kotlin:hover{
     background-color: lightblue;
+}
+
+.langageInfo.flutter:hover{
+    background-color: rgb(75, 75, 211);
 }
 
 
